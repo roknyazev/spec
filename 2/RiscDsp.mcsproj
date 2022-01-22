@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<MCStudioProject><Project name="RiscDsp" state="2"><Unit name="RISC" state="3"><File name="main.c" state="4"/></Unit><Unit name="DSP" state="11"><File name="calc.s" state="12"/></Unit></Project></MCStudioProject>
